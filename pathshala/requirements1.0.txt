@@ -1,0 +1,27 @@
+This document will have all the requirements for the project.
+
+Motto:-
+The website is required to just take in a list of questions and create a  test
+People can login and give the tests
+They will get to know the scores at the end of the exam
+Test setter will be charged according to the number of students giving the exam
+
+Explanations:-
+Two types of logins are present 
+Test setter and Student login
+
+Student login with email and password 
+Tests which can be given by the entered email address appear
+Student login should show all the tests which student has given and can give
+Click on already given tests will show the rank of the student
+Click on the about to happen tests will redirect to test page which will start at test start time
+
+Test setter logins as a test setter with email and password
+Test setter can login and upload tests which can only be done using excel sheet of specified format
+Test setter needs to upload the email address who can give the particular test using excel sheet
+Test setter can also view the previous tests which were conducted and view the leader-board
+
+Tests will have text and options 
+One question will be shown at one time
+Student can easily navigate between various parts of the test
+Shows the time left in the test and ends once the time is over, then shows the results 
